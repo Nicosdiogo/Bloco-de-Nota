@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/bloco-de-nota/static/js/main.8e13df6f.js",
-    "static/js/434.35be61e3.js": "/bloco-de-nota/static/js/434.35be61e3.js",
-    "static/media/AntDesign.ttf": "/bloco-de-nota/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
-    "favicon.ico": "/bloco-de-nota/favicon.ico",
-    "index.html": "/bloco-de-nota/index.html",
-    "favicon-32.png": "/bloco-de-nota/favicon-32.png",
-    "favicon-16.png": "/bloco-de-nota/favicon-16.png",
-    "manifest.json": "/bloco-de-nota/manifest.json",
-    "serve.json": "/bloco-de-nota/serve.json",
-    "main.8e13df6f.js.map": "/bloco-de-nota/static/js/main.8e13df6f.js.map",
-    "434.35be61e3.js.map": "/bloco-de-nota/static/js/434.35be61e3.js.map"
+    "main.js": "/Bloco-de-Nota/static/js/main.426c4b96.js",
+    "static/js/434.35be61e3.js": "/Bloco-de-Nota/static/js/434.35be61e3.js",
+    "static/media/AntDesign.ttf": "/Bloco-de-Nota/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "favicon.ico": "/Bloco-de-Nota/favicon.ico",
+    "index.html": "/Bloco-de-Nota/index.html",
+    "favicon-32.png": "/Bloco-de-Nota/favicon-32.png",
+    "favicon-16.png": "/Bloco-de-Nota/favicon-16.png",
+    "manifest.json": "/Bloco-de-Nota/manifest.json",
+    "serve.json": "/Bloco-de-Nota/serve.json",
+    "main.426c4b96.js.map": "/Bloco-de-Nota/static/js/main.426c4b96.js.map",
+    "434.35be61e3.js.map": "/Bloco-de-Nota/static/js/434.35be61e3.js.map"
   },
   "entrypoints": [
     "static/js/434.35be61e3.js",
-    "static/js/main.8e13df6f.js"
+    "static/js/main.426c4b96.js"
   ]
 }
