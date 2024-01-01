@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "BlocodeNota",
+  "short_name": "BlocodeNota",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
